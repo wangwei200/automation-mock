@@ -1,17 +1,22 @@
 {
   "name": "automation-mock",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "自动工程化配置mockjs",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "https://github.com/wangwei200/automation-mock.git",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:wangwei200/automation-mock.git"
   },
   "keywords": [
     "mockjs",
     "itcast",
     "itheima"
   ],
-  "author": "Sam",
+  "author": "ww",
   "license": "ISC",
   "dependencies": {
     "mockjs": "^1.1.0"
