@@ -1,0 +1,19 @@
+{
+  "name": "automation-mock",
+  "version": "1.0.0",
+  "description": "自动工程化配置mockjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mockjs",
+    "itcast",
+    "itheima"
+  ],
+  "author": "Sam",
+  "license": "ISC",
+  "dependencies": {
+    "mockjs": "^1.1.0"
+  }
+}
